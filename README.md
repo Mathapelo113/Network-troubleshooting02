@@ -19,10 +19,9 @@ The router was configured to provide DHCP services to all connected devices on t
 
 When testing connectivity, PC0 failed to receive an IP address from the DHCP server.
 
-</> Markdown
 
-### Evidence:
-- Screenshot: `08-dhcp-failure.png`
+## 📸 DHCP Failure
+![DHCP Failure](screenshots/08-dhcp-failure.png)
 
 Using Command Prompt on PC0:
 - Command used: `ipconfig`
