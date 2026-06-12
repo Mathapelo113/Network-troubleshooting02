@@ -46,7 +46,7 @@ To investigate the issue:
 4. Confirmed DHCP failure from APIPA result
 5. Captured diagnostic evidence
 
-[DHCP Diagnosis](screenshots/09-dhcp-diagnosis.png)
+![DHCP Diagnosis](screenshots/09-dhcp-diagnosis.png)
 
 ---
 
