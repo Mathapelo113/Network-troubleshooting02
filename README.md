@@ -19,6 +19,8 @@ The router was configured to provide DHCP services to all connected devices on t
 
 When testing connectivity, PC0 failed to receive an IP address from the DHCP server.
 
+</> Markdown
+
 ### Evidence:
 - Screenshot: `08-dhcp-failure.png`
 
@@ -91,7 +93,7 @@ After fixing the DHCP configuration, PC0 successfully received a valid IP addres
 ---
 
 ## 📸 Screenshots
-Place all screenshots in a `/screenshots` folder:
+Placed all screenshots in a `/screenshots` folder:
 - 08-dhcp-failure.png
 - 09-dhcp-diagnosis.png
 - 10-dhcp-success.png
