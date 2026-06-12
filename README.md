@@ -46,7 +46,7 @@ To investigate the issue:
 4. Confirmed DHCP failure from APIPA result
 5. Captured diagnostic evidence
 
-- Screenshot: `09-dhcp-diagnosis.png`
+[DHCP Diagnosis](screenshots/09-dhcp-diagnosis.png)
 
 ---
 
@@ -77,7 +77,7 @@ After fixing the DHCP configuration, PC0 successfully received a valid IP addres
 - Subnet Mask: `255.255.255.0`
 - Default Gateway: `192.168.10.1`
 
-- Screenshot: `10-dhcp-success.png`
+  ![DHCP Success](screenshots/10-dhcp-success.png)
 
 ---
 
